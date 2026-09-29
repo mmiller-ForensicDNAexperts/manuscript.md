@@ -18,4 +18,4 @@ AI assistant Rob, and digital files that he likes best, are the `.md` files. The
 | AI assistant Rob | https://github.com/mmiller-ForensicDNAexperts/rob.v1.md |
 | Manuscript | https://github.com/mmiller-ForensicDNAexperts/manuscript.md |
 | Supplemental | https://github.com/mmiller-ForensicDNAexperts/supplemental_materials |
-| Figures | https://mmiller-forensicdnaexperts.github.io/Figures/Figures.html |
+| Figures | https://github.com/mmiller-ForensicDNAexperts/Figures |
